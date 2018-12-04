@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<Context>
+    <Resource name="jdbc/phonebook"
+              type="javax.sql.DataSource"
+              auth="Container"
+              description="Default datasource"
+              maxActive="100"
+              maxIdle="30"
+              maxWait="10000"
+              username="root"
+              password="admin"
+              driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://localhost/phonebook"/>
+</Context>

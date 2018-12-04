@@ -1,0 +1,14 @@
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 14px;
+    border-radius: 10px;
+    border-spacing: 1px;
+    border: black;
+    border-style: solid;
+    text-align: center;
+}
+td{
+    border: black;
+    border-style: solid;
+}
+
